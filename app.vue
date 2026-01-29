@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header logoText="FIAP Landing Page" />
+    <Header logoText="Laura - SSG Page" />
     <NuxtPage />
     <Footer />
   </div>
