@@ -16,7 +16,7 @@
               class="hover:text-blue-200 transition duration-200 pb-1"
               active-class="border-b-2 border-white"
             >
-              Início
+              Página Inicial
             </NuxtLink>
         </li>
         <li>
